@@ -1,0 +1,1 @@
+// User schema with phone, email, password, verified

@@ -1,0 +1,1 @@
+{ "name": "daraz-backend", "scripts": { "start": "node server.js" } }
