@@ -1,1 +1,12 @@
-{ "name": "daraz-backend", "scripts": { "start": "node server.js" } }
+{
+  "name": "daraz-clone-backend",
+  "version": "1.0.0",
+  "description": "Backend for Daraz-like e-commerce site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
