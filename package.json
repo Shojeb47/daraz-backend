@@ -1,33 +1,18 @@
-{
-  "name": "daraz-clone-backend",
-  "version": "1.0.0",
-  "description": "Backend for Daraz-like e-commerce site",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
-}
 
 
 {
-  "name": "your-app-name",
+  "name": "daraz-backend",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "Full backend for Daraz clone",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^7.0.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
-"engines": {
-  "node": "18.x"
-}
-
-
