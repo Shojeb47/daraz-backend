@@ -1,5 +1,8 @@
 
-
+"main": "server.js",
+"scripts": {
+  "start": "node server.js"
+}
 {
   "name": "daraz-backend",
   "version": "1.0.0",

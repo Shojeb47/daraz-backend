@@ -1,7 +1,3 @@
-"main": "server.js",
-"scripts": {
-  "start": "node server.js"
-}
 
 const express = require('express');
 const mongoose = require('mongoose');
